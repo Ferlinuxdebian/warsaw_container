@@ -13,6 +13,7 @@ Copia os comandos e cole no terminal
 git clone https://github.com/Ferlinuxdebian/warsaw_container.git 
 cd warsaw_container/                                             
 chmod +x install.sh                                              
-./install
+./install.sh
 ```
 # Video de demostração 
+[![Vídeo](https://i.imgur.com/ShpHdvG.jpg)](https://i.imgur.com/ShpHdvG.mp4)
