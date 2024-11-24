@@ -3,7 +3,7 @@ Para quem usa internet banking no Linux sabe que é necessário o módulo de seg
 
 [![Captura-de-tela-de-2024-11-24-08-38-39.png](https://i.postimg.cc/d3wyJLQC/Captura-de-tela-de-2024-11-24-08-38-39.png)](https://postimg.cc/1n7tHRqR)
 
-Pensando em facilitar a vida de quem usa Fedora que já vem por padrão com o Toolbox, um mecanismo para criar contêineres de forma simples, eu fiz uma imagem de contêiner contendo esse módulo de segurança e o Firefox para ser possível acessar os bancos com tranquilidade.  
+Pensando em facilitar a vida de quem usa Fedora que já vem por padrão com o Toolbox, um mecanismo para criar Containers de forma simples, eu fiz uma imagem de Container contendo esse módulo de segurança e o Firefox para ser possível acessar os bancos com tranquilidade.  
 
 O container foi testado no Fedora, mas acredito que deve funcionar em qualquer distro que contém o Toolbox no repositório. 
 
