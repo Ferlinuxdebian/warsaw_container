@@ -8,5 +8,11 @@ Pensando em facilitar a vida de quem usa Fedora que já vem por padrão com o To
 O container foi testado no Fedora, mas acredito que deve funcionar em qualquer distro que contém o Toolbox no repositório. 
 
 # Passsos para instação 
-
+Copia os comandos e cole no terminal
+```
+git clone https://github.com/Ferlinuxdebian/warsaw_container.git 
+cd warsaw_container/                                             
+chmod +x install.sh                                              
+./install
+```
 # Video de demostração 
